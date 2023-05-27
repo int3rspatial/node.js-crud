@@ -1,8 +1,8 @@
 # node.js-crud
 
-## Educational project for third course
+## Educational project
 ***
-This is Simple Web service receiving data from the user and writing them to the database. After adding data to the database, it is possible to delete and edit them. A server and a CRUD-api have been written for the project to access and manipulate records in the database. The client part and data collection from the form have also been worked out. 
+This is simple REST API Web service created using Express.js and MongoDB. It can perform all necessary CRUD operations: adding data to database, accessing it, deleting and editing. Simple authentication system is also implemented.
 
 #### Toolkit: 
 + [Node JS](https://nodejs.org/en/about/)
